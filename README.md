@@ -18,42 +18,48 @@ Programa em Python que calcula descontos progressivos em compras online:
 ### Passo a passo
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/GustavoIkeda26/desconto-progressivo.git
+   git clone https://github.com/GustavoIkeda26/desconto-progressivo.git...
 
 2. Entre na pasta:
 ```bash
 
-cd desconto-progressivo
+cd desconto-progressivo...
+
 
 3. Abra no VS Code e execute no terminal:
-
-python desconto.py
+```bash
+python desconto.py...
+```
 ou, dependendo da instalação:
-python3 desconto.py
+```bash
+python3 desconto.py...
+```
+
 Digite o valor da compra quando solicitado e veja o resultado com o desconto aplicado.
 
-##git add README.md
-git commit -m "Atualiza README com novas edições"
-git push origin main
 
-## 🧪 Exemplos de execução
+### 🧪 Exemplos de execução
 
 Entrada: R$150
+```bash
 Valor da compra: R$ 150.00
 Desconto aplicado: R$ 7.50 (5%)
 Valor final a pagar: R$ 142.50
+```
 
 Entrada: R$250
-Código
+```bash
 Valor da compra: R$ 250.00
 Desconto aplicado: R$ 25.00 (10%)
 Valor final a pagar: R$ 225.00
+```
 
 Entrada: R$350
-Código
+```bash
 Valor da compra: R$ 350.00
 Desconto aplicado: R$ 52.50 (15%)
 Valor final a pagar: R$ 297.50
+```
 
-##👨‍💻 Autor
+### 👨‍💻 Autor
 Gustavo Ikeda
