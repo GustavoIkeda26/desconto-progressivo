@@ -24,14 +24,17 @@ Programa em Python que calcula descontos progressivos em compras online:
 ```bash
 
 cd desconto-progressivo
-
+```bash
 3. Abra no VS Code e execute no terminal:
 ```bash
 python desconto.py
 ou, dependendo da instalação:
 python3 desconto.py
 Digite o valor da compra quando solicitado e veja o resultado com o desconto aplicado.
-
+```bash
+##git add README.md
+git commit -m "Atualiza README com novas edições"
+git push origin main
 🧪 Exemplos de execução
 
 Entrada: R$150
