@@ -10,6 +10,13 @@ Programa em Python que calcula descontos progressivos em compras online:
 ---
 
 ## 🚀 Como executar
-1. Clone este repositório:
+
+### Pré-requisitos
+- Ter o **Python 3** instalado no computador  
+- Ter o **Visual Studio Code** ou outro editor de texto
+
+### Passo a passo
+1. **Clone este repositório**:
    ```bash
    git clone https://github.com/GustavoIkeda26/desconto-progressivo.git
+
