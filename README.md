@@ -24,6 +24,7 @@ Programa em Python que calcula descontos progressivos em compras online:
 ```bash
 
 cd desconto-progressivo...
+```
 
 
 3. Abra no VS Code e execute no terminal:
